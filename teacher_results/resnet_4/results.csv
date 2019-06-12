@@ -1,0 +1,2 @@
+epoch,train_loss,val_loss,train_prec1,val_prec1,train_prec5,val_prec5,best_val_epoch,best_prec1_val,best_test_epoch,best_prec1_test
+1,"tensor(1.5789, device='cuda:0')","tensor(1.3257, device='cuda:0')","tensor(42.7440, device='cuda:0')","tensor(52.8800, device='cuda:0')","tensor(89.1880, device='cuda:0')","tensor(94.4600, device='cuda:0')",1,"tensor(52.8800, device='cuda:0')",0,0.0
